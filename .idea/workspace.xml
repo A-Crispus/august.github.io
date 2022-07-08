@@ -5,112 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbec8454-3579-4699-8853-270e0d2d0d39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/116novel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/bootstrap.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/bootstrap.esm.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/bootstrap.esm.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/bootstrap.esm.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/about us.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bkslogo.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact us.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/authe.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/looks.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data1/images/The sign.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data1/images/image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data1/images/img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data1/images/img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data1/images/nvlbnr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data1/tooltips/image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data1/tooltips/img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data1/tooltips/img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/style.mod.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/wowslider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/wowslider.mod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/ws-ctrl-rhomb.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/ws-ctrl-rhomb.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/ws-ctrl-rhomb.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/engine1/ws-ctrl-rhomb.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/-cute-social-media-icons-l.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/The sign.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/anim 1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/awokwe1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bnner.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/butterfly cam.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cam 1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cam 2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cam 3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/contact-us.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/doumo.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/env 1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/goku 1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/hi wrld.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ima.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/images.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/index.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/leaf fall.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lemur cam.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo.a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nature 1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nature 2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nature 3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/nature 4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/one piece.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/srvc.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/srvc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nvlbnr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,6 +79,7 @@
       <workItem from="1657094244863" duration="9011000" />
       <workItem from="1657182092193" duration="3000000" />
       <workItem from="1657261274282" duration="25000" />
+      <workItem from="1657270517274" duration="836000" />
     </task>
     <servers />
   </component>
