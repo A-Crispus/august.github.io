@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbec8454-3579-4699-8853-270e0d2d0d39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/116novel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bkslogo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/authe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/looks.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/images/The sign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/images/image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/images/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/images/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/images/nvlbnr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/tooltips/image2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/tooltips/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data1/tooltips/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/style.mod.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/wowslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/wowslider.mod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/ws-ctrl-rhomb.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/ws-ctrl-rhomb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/ws-ctrl-rhomb.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/engine1/ws-ctrl-rhomb.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/-cute-social-media-icons-l.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/The sign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/anim 1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/awokwe1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bnner.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/butterfly cam.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cam 1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cam 2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cam 3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/contact-us.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/doumo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/env 1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/goku 1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hi wrld.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ima.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/images.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/index.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/leaf fall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lemur cam.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nature 1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nature 2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nature 3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/nature 4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/one piece.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/srvc.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/srvc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nvlbnr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signup.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BKlzJqBAkibgg63ezvwmz5sTub" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/emobilis/Desktop/116novel&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbec8454-3579-4699-8853-270e0d2d0d39" name="Changes" comment="" />
+      <created>1656662918878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656662918878</updated>
+      <workItem from="1656662920625" duration="79000" />
+      <workItem from="1656663102767" duration="150000" />
+      <workItem from="1656663285049" duration="2764000" />
+      <workItem from="1656667669647" duration="170000" />
+      <workItem from="1656668139736" duration="219000" />
+      <workItem from="1656669318019" duration="1918000" />
+      <workItem from="1656921955932" duration="57000" />
+      <workItem from="1656922035876" duration="447000" />
+      <workItem from="1656922515255" duration="67000" />
+      <workItem from="1656922616737" duration="2520000" />
+      <workItem from="1657008136787" duration="1618000" />
+      <workItem from="1657015323402" duration="1900000" />
+      <workItem from="1657094244863" duration="9011000" />
+      <workItem from="1657182092193" duration="3000000" />
+      <workItem from="1657261274282" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
